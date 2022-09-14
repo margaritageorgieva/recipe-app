@@ -9,7 +9,7 @@ function Carousel({ data }) {
       <Splide
         options={{
           perPage: 4,
-          arrows: false,
+          arrows: true,
           drag: "free",
           gap: "4rem",
         }}
