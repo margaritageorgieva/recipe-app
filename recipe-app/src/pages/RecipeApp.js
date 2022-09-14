@@ -13,7 +13,7 @@ function RecipeApp() {
     <>
       <Nav>
         <GiKnifeFork />
-        <Logo to={"/"}>Delicios Recipes </Logo>
+        <Logo to={"/"}>Delicious Recipes</Logo>
       </Nav>
       <Search />
       <Categories />
